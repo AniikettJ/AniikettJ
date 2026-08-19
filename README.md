@@ -1,125 +1,125 @@
 <div align="center">
 
-# Hi, I'm Aniket Jadhav 👋
+# ANIKET JADHAV
 
-### AI & Data Science Engineer | Machine Learning | Data Analytics
+### AI & Data Science Engineer · Machine Learning · Data Analytics
 
 <p>
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/AniikettJ">GitHub</a>
+  <img src="https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-informational?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Focused-informational?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-informational?style=flat-square&logo=powerbi&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://github.com/AniikettJ"><img src="https://img.shields.io/badge/GitHub-AniikettJ-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 WHO AM I?
 
-I'm an **AI & Data Science Engineering student** focused on building practical, data-driven solutions with **Machine Learning, Python, SQL, and Power BI**.
+I'm an **AI & Data Science Engineering student** who enjoys turning data into practical solutions.
 
-I enjoy turning raw data into useful insights, building predictive and recommendation systems, and developing projects that connect **data, ML, and real-world business problems**.
+My work sits at the intersection of **Machine Learning, Data Analytics and Business Intelligence** — from exploratory analysis and feature engineering to predictive models, recommendation systems and interactive dashboards.
 
-- 🤖 Interested in **Machine Learning & AI**
-- 📊 Strong focus on **Data Analytics & Visualization**
-- 🐍 Building with **Python, Pandas & scikit-learn**
-- 🗄️ Working with **SQL & data-driven applications**
-- 📈 Creating analytical dashboards with **Power BI & DAX**
-- 🧠 Currently strengthening **ML, NLP and end-to-end deployment**
+> **I don't just analyze data — I build solutions around it.**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ WHAT I WORK WITH
 
-**Languages & Querying**
+| 🧠 Machine Learning | 📊 Data Analytics | 🛠️ Development |
+|:---:|:---:|:---:|
+| Scikit-learn | SQL | Python |
+| Feature Engineering | Pandas / NumPy | Git / GitHub |
+| Model Evaluation | Power BI / DAX | APIs |
+| Recommendation Systems | EDA & Visualization | Jupyter / Colab |
 
-`Python` `SQL` `C++`
+### Core Stack
 
-**Machine Learning & Data Science**
-
-`scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `NLP`
-
-**Analytics & BI**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-**Tools & Platforms**
-
-`Jupyter Notebook` `Git` `GitHub` `Google Colab`
+`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Power BI` · `DAX` · `Power Query` · `Excel` · `Git`
 
 ---
 
-## ⭐ Featured Projects
-
-### 🏙️ UrbanStay — Airbnb Price Prediction
-Machine Learning project focused on analyzing Airbnb listings and predicting listing prices using data preprocessing, exploratory analysis, feature engineering and ML modeling.
-
-**Focus:** `Python` `Pandas` `EDA` `Feature Engineering` `Machine Learning`
-
-👉 [View Project](https://github.com/AniikettJ/UrbanStay---Airbnb)
-
-### 🎬 CineMatch — Movie Recommendation System
-A recommendation-system project designed to generate personalized movie recommendations using machine-learning and similarity-based techniques.
-
-**Focus:** `Python` `Machine Learning` `Recommendation Systems` `Data Processing`
-
-👉 [View Project](https://github.com/AniikettJ/CineMatch)
-
-### 👥 HR Analytics Dashboard
-Interactive Power BI dashboard focused on workforce analytics and employee attrition insights.
-
-**Focus:** `Power BI` `DAX` `Power Query` `Data Analytics`
-
-👉 [View Project](https://github.com/AniikettJ/HR-ANALYTICS-DASHBOARD)
-
-### 💰 Financial Analytics Dashboard
-Business-focused dashboard for analyzing financial performance and extracting actionable insights.
-
-**Focus:** `Power BI` `DAX` `Data Visualization`
-
-👉 [View Project](https://github.com/AniikettJ/FINANCIAL-ANALYTICS-DASHBOARD)
-
----
-
-## 📊 Other Projects
-
-- **Samsung Dashboard** — Business intelligence & visualization
-- **Super Sales Analytics EDA** — Python-based exploratory data analysis
-- **Ski Dashboard** — Interactive data visualization
-- **Crypto Currency Converter** — Python application using APIs
-- **Music Player** — Python desktop application
-- **Hotel Management** — Python & SQLite application
-
----
-
-## 📈 GitHub Stats
+# 🚀 FEATURED WORK
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AniikettJ&show_icons=true&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniikettJ&layout=compact&hide_border=true" height="165" />
+| 🏙️ **UrbanStay** | 🎬 **CineMatch** |
+|:---|:---|
+| **Airbnb ML & Price Prediction** | **Movie Recommendation System** |
+| End-to-end machine learning project involving data cleaning, EDA, feature engineering and predictive modeling. | Recommendation system focused on generating relevant movie recommendations using similarity-based techniques. |
+| `Python` `ML` `EDA` `Feature Engineering` | `Python` `ML` `Recommendation Systems` |
+| **[VIEW PROJECT →](https://github.com/AniikettJ/UrbanStay---Airbnb)** | **[VIEW PROJECT →](https://github.com/AniikettJ/CineMatch)** |
+
+</div>
+
+<div align="center">
+
+| 👥 **HR Analytics** | 💰 **Financial Analytics** |
+|:---|:---|
+| **Employee Attrition Intelligence** | **Financial Performance Analysis** |
+| Interactive dashboard designed to explore workforce metrics, attrition patterns and business insights. | Business-focused dashboard for exploring financial performance through interactive visual analytics. |
+| `Power BI` `DAX` `Power Query` | `Power BI` `DAX` `Data Visualization` |
+| **[VIEW PROJECT →](https://github.com/AniikettJ/HR-ANALYTICS-DASHBOARD)** | **[VIEW PROJECT →](https://github.com/AniikettJ/FINANCIAL-ANALYTICS-DASHBOARD)** |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 📂 MORE PROJECTS
+
+**Samsung Dashboard** · Business Intelligence & Visualization  
+**Super Sales Analytics EDA** · Python & Exploratory Data Analysis  
+**Ski Dashboard** · Data Visualization  
+**Crypto Currency Converter** · Python & APIs  
+**Music Player** · Python Desktop Application  
+**Hotel Management** · Python & SQLite
+
+---
+
+## 📈 GITHUB SNAPSHOT
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AniikettJ&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniikettJ&layout=compact&hide_border=true" height="170" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=AniikettJ&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 CURRENTLY FOCUSING ON
 
 ```text
-Machine Learning       ███████████████████░  90%
-Data Analytics         ███████████████████░  90%
-Python                 ████████████████████ 100%
-SQL                    ██████████████████░░  90%
-Power BI               ██████████████████░░  90%
-NLP                    ███████████████░░░░░  75%
-Deep Learning          █████████████░░░░░░░  65%
+Machine Learning     ████████████████████  Building stronger end-to-end projects
+NLP                  █████████████████░░░  Exploring practical NLP applications
+Deep Learning        ███████████████░░░░░  Strengthening fundamentals
+Deployment           ███████████████░░░░░  Learning production-ready workflows
 ```
+
+---
+
+## 🧭 MY DIRECTION
+
+**Data Analyst → Data Scientist → ML Engineer**
+
+I'm continuously improving my ability to move from **raw data → insights → machine learning → usable solutions**.
 
 ---
 
 <div align="center">
 
-### 💡 Build. Analyze. Learn. Repeat.
+### 💻 BUILD · 📊 ANALYZE · 🤖 LEARN · 🚀 SHIP
 
-Thanks for visiting my profile! ⭐
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
